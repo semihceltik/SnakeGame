@@ -1,0 +1,10 @@
+C:\Users\asemi\source\repos\Yılan\Yılan\bin\Debug\Yılan.exe.config
+C:\Users\asemi\source\repos\Yılan\Yılan\bin\Debug\Yılan.exe
+C:\Users\asemi\source\repos\Yılan\Yılan\bin\Debug\Yılan.pdb
+C:\Users\asemi\source\repos\Yılan\Yılan\obj\Debug\Yılan.csprojAssemblyReference.cache
+C:\Users\asemi\source\repos\Yılan\Yılan\obj\Debug\Yılan.Form1.resources
+C:\Users\asemi\source\repos\Yılan\Yılan\obj\Debug\Yılan.Properties.Resources.resources
+C:\Users\asemi\source\repos\Yılan\Yılan\obj\Debug\Yılan.csproj.GenerateResource.cache
+C:\Users\asemi\source\repos\Yılan\Yılan\obj\Debug\Yılan.csproj.CoreCompileInputs.cache
+C:\Users\asemi\source\repos\Yılan\Yılan\obj\Debug\Yılan.exe
+C:\Users\asemi\source\repos\Yılan\Yılan\obj\Debug\Yılan.pdb

@@ -1,0 +1,4 @@
+KULLANICI:
+SEVİYE:zor
+SÜRE:2
+SKOR:0
